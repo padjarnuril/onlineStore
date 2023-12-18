@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../xampp12/htdocs/saas"
+		},
+		{
+			"path": "../xampp12/htdocs/ukk_kel3"
+		},
+		{
+			"path": "D:/ukk_kel_3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ukk_kel_3"
+	}
+}
